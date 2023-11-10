@@ -25,7 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **System information (please complete the following information):**
  - OS: [e.g. Windows 10]
- - Python version [e.g. Python 3.12.0]
+ - Python version: [e.g. Python 3.12.0]
 
 **Additional context**
 Add any other context about the problem here.

@@ -2,7 +2,7 @@
 name: Wiki changes
 about: Propose changes to the wiki
 title: ''
-labels: documentation
+labels: wiki
 assignees: ''
 
 ---
